@@ -6,20 +6,10 @@
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manolomarques&show_icons=true&theme=outrun&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolomarques&layout=compact&hide=shell&theme=outrun"/>
-    
-    
-    
-    
-    
-    
-    
-    
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manolomarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolomarques&layout=compact&hide=shell&theme=tokyonight"/>
+
 </div>
-  
-  
-  
   
   
 <div style="display: inline_block"><br>
@@ -28,6 +18,9 @@
   <img align="center" alt="Manolo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Manolo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
+  
+  ![Snake animation](https://github.com/manolomarques/manolomarques/blob/output/github-contribution-grid-snake.svg)
+  
 <div style="display: inline_block"><br>
   <img align="right" alt="Manolo-Gif" src="https://i.ibb.co/CW8yP8c/ezgif-com-gif-maker-1.gif">
 </div>
@@ -47,4 +40,5 @@
 <img align="right" src="https://profile-counter.glitch.me/manolomarques/count.svg">
 </div> 
   
-![Snake animation](https://github.com/manolomarques/manolomarques/blob/output/github-contribution-grid-snake.svg)
+  
+
