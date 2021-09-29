@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=manolomarques&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolomarques&layout=compact&langs_count=12&theme=blueberry"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manolomarques&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolomarques&layout=compact&hide=shell&theme=highcontrast"/>
 </div>
   
 <div style="display: inline_block"><br>
@@ -27,5 +27,12 @@
   <a href = "mailto:mfmfel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/manoel-marques-ferreira-32379782" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
-
+<br>
+<br>
+<br>
+<div>  
+<h4 align="right"> Visitantes </h4>
+<img align="right" src="https://profile-counter.glitch.me/manolomarques/count.svg">
+</div> 
+  
 ![Snake animation](https://github.com/manolomarques/manolomarques/blob/output/github-contribution-grid-snake.svg)
