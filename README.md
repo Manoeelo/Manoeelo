@@ -6,8 +6,8 @@
 
 <div>
   <a href="https://beacons.ai/rafaballerini">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=manolomarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolomarques&layout=compact&hide=shell&theme=tokyonight"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=manolomarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolomarques&layout=compact&hide=shell&theme=tokyonight"/>
 
 </div>
   
