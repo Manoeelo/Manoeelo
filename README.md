@@ -8,7 +8,7 @@
   <a href="https://beacons.ai/manolomarques">
   <img height="120em" src="https://github-readme-stats.vercel.app/api?username=manolomarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolomarques&layout=compact&hide=shell&theme=tokyonight"/>
-  <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+  <!--<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />-->
 
 </div>
   
