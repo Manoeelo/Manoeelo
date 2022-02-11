@@ -1,7 +1,7 @@
 ### Olá, eu sou ManoloMarques 👋
 
-- 🔭 QA Chatão
-- 🌱 Aplicações Java automatizando testes com Rest-assured
+- 🔭 QA 
+- 🌱 Testeando atualmente Aplicações Java automatizando testes com Rest-assured
 
 
 <div>
