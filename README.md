@@ -9,6 +9,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=manolomarques&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolomarques&layout=compact&hide=shell&theme=tokyonight"/>
 </div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=**anuraghazra**&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="right" alt="Manolo-Gif" src="https://i.ibb.co/CW8yP8c/ezgif-com-gif-maker-1.gif">
