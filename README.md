@@ -10,7 +10,6 @@
   <img height="135em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=manolomarques&layout=compact&hide=shell&theme=tokyonight"/>
 </div>
   -->
-
 <div style="display: inline_block"><br>
   <img align="right" alt="Manolo-Gif" src="https://i.ibb.co/CW8yP8c/ezgif-com-gif-maker-1.gif">
 </div>
@@ -25,6 +24,7 @@
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
   ![IntelliJ](https://img.shields.io/badge/-IntelliJ-05122A?style=flat&logo=jetbrains)&nbsp;
   ![Insomnia](https://img.shields.io/badge/-Insomnia-05122A?style=flat&logo=insomnia&logoColor=purple)&nbsp;
+  
 ### Let's connect?
 <div>
  <a href="https://discord.gg/dRZEskTz" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
