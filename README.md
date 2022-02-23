@@ -1,7 +1,7 @@
 ### Olá, eu sou ManoloMarques 👋
 
-- 🔭 QA 
-- 🌱 Testeando atualmente aplicações Java, automatizando testes com Rest-assured
+- 🔭 Quality Assurance
+- 🌱 Testes Manuais e Automatizados
 <!--
 ### Analytics ⚙️
 <div>
