@@ -1,7 +1,6 @@
 ### Olá, eu sou ManoloMarques 👋
 
 - 🔭 Quality Assurance
-- 🌱 Testes Manuais e Automatizados
 <!--
 ### Analytics ⚙️
 <div>
